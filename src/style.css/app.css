@@ -1,0 +1,12 @@
+.app {
+  padding-top: 30px;
+  height: 100%;
+  width: 100vw;
+}
+.app h1 {
+  color: white;
+  font-size: 6rem;
+  text-align: center;
+}
+
+/*# sourceMappingURL=app.css.map */

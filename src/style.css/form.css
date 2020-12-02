@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+form input {
+  margin-right: 15px;
+  width: 25%;
+  padding: 5px;
+  font-size: 2rem;
+}
+form .button-text {
+  color: black;
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=form.css.map */
